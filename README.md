@@ -1,2 +1,2 @@
 # php-mvc
-PWMVC | Pemrograman Web Berbasis MVC - MSIB
+PWMVC | Pemrograman Web Berbasis MVC | Maulidya Rista Yuniar
